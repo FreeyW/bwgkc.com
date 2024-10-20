@@ -14,12 +14,12 @@
 
 | 计划名称 | CPU | RAM | 存储 | 每月流量 | 每年价格 | 订单链接 |
 |----------------|-----|----------|---------------| ----------------|-----------------|-------------------------------------------------------|
-| KVM | 2 | 1GB | 20GB | 1TB | 49.9 美元 | [在此订购]（https://bwh81.net/aff.php?aff=31591&pid=44）|
+| KVM | 2 | 1GB | 20GB | 1TB | 49.9 美元 | [在此订购](https://bwh81.net/aff.php?aff=31591&pid=44)|
 | KVM | 3 | 2GB | 40GB | 2TB | 99.99 美元 | [在此订购](https://bwh81.net/aff.php?aff=31591&pid=45) |
-| KVM | 4 | 4GB | 80GB | 3TB | 199.99 美元 | [在此订购]（https://bwh81.net/aff.php?aff=31591&pid=46）|
-| CN2 GIA-E 电子商务 | 2 | 1GB | 20GB | 1TB | 169 美元 | [在此订购]（https://bwh81.net/aff.php?aff=31591&pid=87）|
-| CN2 GIA-E 电子商务 | 3 | 2GB | 80GB | 2TB | 199 美元 | [在此订购]（https://bwh81.net/aff.php?aff=31591&pid=88）|
-| CN2 GIA-E 电子商务 | 4 | 4GB | 160GB| 3TB | 549 美元 | [在此订购]（https://bwh81.net/aff.php?aff=31591&pid=89）|
+| KVM | 4 | 4GB | 80GB | 3TB | 199.99 美元 | [在此订购](https://bwh81.net/aff.php?aff=31591&pid=46)|
+| CN2 GIA-E 电子商务 | 2 | 1GB | 20GB | 1TB | 169 美元 | [在此订购](https://bwh81.net/aff.php?aff=31591&pid=87)|
+| CN2 GIA-E 电子商务 | 3 | 2GB | 80GB | 2TB | 199 美元 | [在此订购](https://bwh81.net/aff.php?aff=31591&pid=88)|
+| CN2 GIA-E 电子商务 | 4 | 4GB | 160GB| 3TB | 549 美元 | [在此订购](https://bwh81.net/aff.php?aff=31591&pid=89)|
 
 ### 还有更多...
 探索其他计划，最多可配备 16 个 CPU 核心、32GB RAM 和 360GB SAS/NVMe 存储，每个计划都有大量每月流量限额。
